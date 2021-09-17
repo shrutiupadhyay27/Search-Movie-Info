@@ -1,0 +1,17 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "User Can Search of Movies by it's name and get it's detailed info from IMDb Website       A free Movies API from [OMDb API](http://www.omdbapi.com/) Website is used",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
